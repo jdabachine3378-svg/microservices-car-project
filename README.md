@@ -76,3 +76,6 @@ eureka.instance.prefer-ip-address=true
 <img width="822" height="779" alt="image" src="https://github.com/user-attachments/assets/54e05f22-9af9-409c-a3d8-f55290688275" />
 ## http://localhost:8089/voitures/client/1
 <img width="1052" height="625" alt="image" src="https://github.com/user-attachments/assets/a994bc89-d6d4-445f-a08e-f97debb9437e" />
+##  http://localhost:8089/voitures/1
+<img width="792" height="485" alt="image" src="https://github.com/user-attachments/assets/eb0637aa-16c8-4466-8049-e4cd3441e5e2" />
+
